@@ -1,19 +1,18 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Ruby on Rails intern
+- company: Netology-Group LLC
+  position: Ruby on Rails intern
+  duration: November, 2017 &mdash; February, 2018
+  summary: <ul class="resume-item-list"><li>Studied under senior developers</li><li>Added new features to the project, fixed minor and more crucial bugs.</li>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Ruby on Rails developer
+- company: Netology-Group LLC
+  position: Junior Ruby on Rails developer
+  duration: February, 2018 &mdash; March, 2019
+  summary: <ul class="resume-item-list"><li>Implemented core server logic</li><li>Managed BTB service integrations such as Zapier, AmoCRM, Emarsys</li><li>Been a part of RnD team for several months to implement analytics integrations</li><li>Created lead gen API-only side-projects from scratch using k8s and Heroku</li><li>Compiled standalone backend and frontend apps into easy to deploy Docker containers</li><li>Reviewed pull requests since day 1</li><li>Announced every new major features to stake holders on sprint reviews</li>
 
-
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Middle Ruby on Rails developer
+- company: Netology-Group LLC
+  position: Middle Ruby on Rails developer
+  duration: March, 2019  &mdash; Current
+  summary: <ul class="resume-item-list"><li>Continued implementing core server logic</li><li>Gathered weekly backend-team meatings to achieve knowledge sharing and to discuss various minor and major improvements possible to implement in the app</li><li>Refactored core features</li><li>Took part in backlog planning to help build good communication between product leads and dev crew</li><li>Actively supported research and development to improve general performance of the app</li>
