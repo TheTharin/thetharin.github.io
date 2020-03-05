@@ -1,4 +1,7 @@
 # Skills
 # Ruby on Rails
 - skill: Ruby on Rails backend development
-  description: 'I have almost two years of commercial backend development experience using Ruby on Rails. Core skills are: Ruby, Rails 5, PostgreSQL, Sidekiq, Redis, HTML&CSS, slim, rspec, git, RabbitMQ. Also have a lot of experience with Hanami framework'
+  description: 'I have over three years of commercial backend development experience using Ruby on Rails. Core skills are: Ruby, Rails 5, PostgreSQL, Sidekiq, Redis, HTML&CSS, slim, rspec, git, RabbitMQ. Also have a lot of experience with Hanami framework'
+
+- skill: Elixir & Phoenix backend development
+  description: "I've got a solid backend background in Ruby, so I decided to broaden my skills by mastering another language. All in all I've been programming with Elixir for a year in production up until now. Great language and great possibilities it brings with itself."
