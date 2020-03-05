@@ -7,3 +7,9 @@
   duration: 2017 &mdash; Present
   # url: "#"
   description: Foxford is an online studying platform for pupils and teachers of all ages and grades. It's a part of Netology-Group LLC.
+
+- project: Quizzer APP
+  role: Elixir & Phoenix backend developer
+  duration: November, 2019 &mdash; Current
+  summary: <ul class="resume-item-list"><li>Implemented core server logic</li><li>Planned the project architecture</li><li>Refactored old code</li>
+
