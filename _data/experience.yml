@@ -19,5 +19,10 @@
 
 - company: Quizzer APP
   position: Elixir & Phoenix backend developer
-  duration: November, 2019 &mdash; Current
+  duration: November, 2019 &mdash; April, 2020
   summary: <ul class="resume-item-list"><li>Implemented core server and game logic</li><li>Planned the project architecture</li><li>Refactored old code</li>
+
+- company: FridgeNoMore
+  position: Ruby on Rails dev
+  duration: July, 2020 &mdash; current
+  summary: <ul class="resume-item-list"><li>Implemented backend functionality from scratch</li><li>Planned the project architecture</li>
