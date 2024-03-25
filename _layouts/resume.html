@@ -39,12 +39,12 @@
           {{ site.resume_header_intro }}
         </div>
 
-        {% if site.resume_looking_for_work == 'yes' %}
+        <!-- {% if site.resume_looking_for_work == 'yes' %}
         <a href="mailto:{{ site.resume_contact_email }}" class="contact-button no-print" itemprop="email">Contact me</a>
         {% elsif site.resume_looking_for_work == 'no' %}
         <a class="contact-button not-looking no-print">I'm not looking for work right now.</a>
         {% else %}
-        {% endif %}
+        {% endif %} -->
 
       </header>
 
@@ -108,7 +108,7 @@
         <div class="resume-item" itemscope itemtype="http://schema.org/CreativeWork">
           <meta itemprop="creator" content="{{ site.resume_name }}" itemtype="http://schema.org/Person" />
           <h3 class="resume-item-title" itemprop="name">{% if project.url %}<a href="{{ project.url }}" itemprop="url">{{ project.project }}</a>{% else %}{{ project.project }}{% endif %}</h3>
-          <h4 class="resume-item-details" itemprop="description">{{ project.role }}  &bull; {{ project.duration }}</h4>
+          <h4 class="resume-item-details" itemprop="description">{{ project.role }}{{ project.duration }}</h4>
           <p class="resume-item-copy">{{ project.description }}</p>
         </div>
         {% endfor %}
