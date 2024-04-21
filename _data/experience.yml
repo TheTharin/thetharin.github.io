@@ -26,11 +26,11 @@
   summary: <ul class="resume-item-list"><li>Implemented core server logic</li><li>Managed BTB service integrations such as Zapier, AmoCRM, Emarsys</li><li>Been a part of RnD team for several months to implement analytics integrations</li><li>Created lead gen API-only side-projects from scratch using k8s and Heroku</li><li>Compiled standalone backend and frontend apps into easy to deploy Docker containers</li><li>Reviewed pull requests since day 1</li><li>Announced every new major features to stake holders on sprint reviews</li>
 
 - company: Netology-Group LLC
-  position: Moderator
-  duration: August, 2016 &mdash; October, 2016
+  position: Senior Moderator
+  duration: November, 2016 &mdash; February, 2018
   summary: <ul class="resume-item-list"><li>Provided hardware and software support for streaming platform</li><li>Provided teachers' support</li><li>Helped junior moderators</li><li>Planned team working schedule</li><li>Overseered whole streaming process</li></ul>
 
 - company: Netology-Group LLC
-  position: Senior Moderator
-  duration: November, 2016 &mdash; February, 2018
+  position: Moderator
+  duration: August, 2016 &mdash; October, 2016
   summary: <ul class="resume-item-list"><li>Provided hardware and software support for streaming platform</li><li>Provided teachers' support</li><li>Moderated stream chat</li></ul>
